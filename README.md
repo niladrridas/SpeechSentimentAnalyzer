@@ -20,7 +20,7 @@ SpeechSentimentAnalyzer is a Python project that combines speech processing and 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/niladrigithub/SpeechSentimentAnalyzer.git
+    git clone https://github.com/niladrridas/SpeechSentimentAnalyzer.git
     cd SpeechSentimentAnalyzer
     ```
 
@@ -44,4 +44,4 @@ If you'd like to contribute to this project, please follow these steps:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/niladrigithub/SpeechSentimentAnalyzer?tab=MIT-1-ov-file) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/niladrridas/SpeechSentimentAnalyzer?tab=MIT-1-ov-file) file for details.
